@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Integrate AdMob</string>
+    <string name="title_activity_second_activiy">Interstitial</string>
+    <string name="msg_welcome">Welcome to Admob. Click on the below button to launch the Interstitial ad.</string>
+    <string name="btn_fullscreen_ad">Show Interstitial Ad</string>
+
+
+    <!-- TODO - add your ad unit Ids -->
+    <!-- AdMob ad unit IDs -->
+    <string name="admob_app_id">ca-app-pub-2431724280277544~8673486546</string>
+    <string name="banner_home_footer">ca-app-pub-2431724280277544/8473341840</string>
+    <string name="interstitial_full_screen">ca-app-pub-2431724280277544/6786701560</string>
+</resources>
